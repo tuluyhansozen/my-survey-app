@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my-survey-app/static/css/main.449ecdac.css",
+    "main.js": "/my-survey-app/static/js/main.e886370f.js",
+    "static/media/result.png": "/my-survey-app/static/media/result.debf59301cb1e2abac20.png",
+    "index.html": "/my-survey-app/index.html",
+    "main.449ecdac.css.map": "/my-survey-app/static/css/main.449ecdac.css.map",
+    "main.e886370f.js.map": "/my-survey-app/static/js/main.e886370f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.449ecdac.css",
+    "static/js/main.e886370f.js"
+  ]
+}
